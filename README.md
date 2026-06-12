@@ -69,7 +69,7 @@ I'm an **AI Engineer** currently pursuing MCA at SGSITS, Indore, with a focus on
 
 <br/>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=namannb07&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=namannb07&theme=tokyonight&hide_border=true)
 
 </div>
 
