@@ -91,6 +91,6 @@ I'm an **AI Engineer** currently pursuing MCA at SGSITS, Indore, with a focus on
 
 *"Build at the edge. Deploy in production. Measure in the real world."*
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=namannb07&icon=0&color=4)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=namannb07&style=flat-square&color=4F8EF7&label=Profile+Views)
 
 </div>
