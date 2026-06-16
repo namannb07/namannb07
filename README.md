@@ -20,7 +20,6 @@ I'm an **AI Engineer** currently pursuing MCA at SGSITS, Indore, with a focus on
 - 🔭 Currently working at **Quasi Intelligence Pvt. Ltd.** — deploying AI vision systems in live industrial environments
 - 🧠 Deep expertise in **RF-DETR, YOLO, TensorRT, DeepStream, and GStreamer pipelines**
 - ⚙️ Experience integrating AI with **industrial automation** (PLC, Modbus TCP)
-- 🎓 MCA II Year @ **SGSITS Indore** — Top 8.5% of institute (Rank 302 / 3,600+)
 - 💬 Ask me about edge AI, model optimization, or computer vision deployment
 
 ---
@@ -75,15 +74,6 @@ I'm an **AI Engineer** currently pursuing MCA at SGSITS, Indore, with a focus on
 
 ---
 
-## Highlights
-
-```
-📍 Indore, Madhya Pradesh, India
-🎓 MCA — SGSITS Indore (CGPA: 8.63) | BCA — Holkar Science College (CGPA: 8.02)
-🏆 Top 8.5% at SGSITS (Rank 302 / 3,600+ students)
-💻 300+ DSA problems solved on LeetCode & GeeksforGeeks
-🧑‍💼 Technical Team Lead — Tech Skull Club, SGSITS
-```
 
 ---
 
